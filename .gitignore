@@ -1,2 +1,3 @@
 pico-w/secrets.py
 esp32-nodemcu/secrets.py
+esp32-nodemcu-arduino/secrets.h
